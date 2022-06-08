@@ -3,12 +3,12 @@ module github.com/blacktop/arm64-cgo
 go 1.17
 
 require (
-	github.com/AlecAivazis/survey/v2 v2.3.2
+	github.com/AlecAivazis/survey/v2 v2.3.5
 	github.com/apex/log v1.9.0
 	github.com/blacktop/go-macho v1.1.56
 	github.com/spf13/cobra v1.2.1
 	github.com/spf13/viper v1.9.0
-	golang.org/x/sys v0.0.0-20211002104244-808efd93c36d // indirect
+	golang.org/x/sys v0.0.0-20220422013727-9388b58f7150 // indirect
 	golang.org/x/text v0.3.7 // indirect
 )
 
